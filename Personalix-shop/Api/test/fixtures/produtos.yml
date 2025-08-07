@@ -2,10 +2,12 @@
 
 one:
   nome: MyString
-  preco: 9.99
+  preço: 9.99
   img: MyString
+  categoria: one
 
 two:
   nome: MyString
-  preco: 9.99
+  preço: 9.99
   img: MyString
+  categoria: two

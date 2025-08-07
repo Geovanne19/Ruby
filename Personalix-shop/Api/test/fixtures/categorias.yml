@@ -2,10 +2,8 @@
 
 one:
   nome: MyString
-  email: MyString
-  senha: MyString
+  img: MyString
 
 two:
   nome: MyString
-  email: MyString
-  senha: MyString
+  img: MyString

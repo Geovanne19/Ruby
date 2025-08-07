@@ -1,6 +1,4 @@
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Playwrite+HU:wght@100..400&display=swap');
-
 
 .degrade-overlay {
   position: absolute;
